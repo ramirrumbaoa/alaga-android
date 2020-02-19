@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alaga</string>
+    <string name="agora_app_id">710fe16556c9407d86b45740816e7101</string>
+    <string name="agora_access_token">token here</string>
+</resources>

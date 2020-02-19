@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/test1"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/test2"
+        android:title="Function 1" />
+
+    <item
+        android:id="@+id/test3"
+        android:title="Function 2" />
+
+    <item
+        android:id="@+id/test4"
+        android:title="Settings" />
+
+</menu>

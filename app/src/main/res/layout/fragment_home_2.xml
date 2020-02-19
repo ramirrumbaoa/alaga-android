@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8A8383">
+
+    <TextView
+        android:id="@+id/quick_tips_when_use_agora_sdk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="HOME 2 FRAGMENT"/>
+
+
+    <FrameLayout
+        android:id="@+id/remote_video_view_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white" />
+
+    <FrameLayout
+        android:id="@+id/local_video_view_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+<!--    <com.alagahealth.alaga.CustomView.VideoGridContainer-->
+<!--        android:id="@+id/live_video_grid_layout"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"/>-->
+
+</LinearLayout>
